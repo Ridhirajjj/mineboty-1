@@ -1,12 +1,12 @@
 {
-    "ip": "",
-    "port": "",
+    "ip": "ult15.falix.gg",
+    "port": "29353",
     "name": "katy",
     "auto-night-skip": "false",
-    "prefix": "",
+    "prefix": "!",
     "login-enabled": "true",
     "register-cmd": "/login kartikopp kartikopp",
     "login-cmd": "/login kartikopp",
-    "loginmsg": "",
+    "loginmsg": "ggg",
     "auto-reconnect": "true"
 }
