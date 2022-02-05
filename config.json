@@ -1,9 +1,9 @@
 {
-    "ip": "",
-    "port": "",
-    "name": "katy",
+    "ip": "23.88.4.231",
+    "port": "29353",
+    "name": "DPS bot",
     "auto-night-skip": "false",
-    "prefix": "",
+    "prefix": "op",
     "login-enabled": "true",
     "register-cmd": "/login kartikopp kartikopp",
     "login-cmd": "/login kartikopp",
